@@ -1,0 +1,1 @@
+Using React for displaying big list (li). Based on https://github.com/ReactTraining/react-workshop/tree/master/subjects/RenderOptimizations
