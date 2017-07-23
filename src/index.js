@@ -1,10 +1,9 @@
 import React from 'react';
 import DOM from 'react-dom';
-import ListView from './components/listView';
+import SampleApp from './components/sampleApp';
+
 
 DOM.render(
-    <ListView 
-        count={500000}
-        />,
+    <SampleApp />,
     document.getElementById("root")
 );
